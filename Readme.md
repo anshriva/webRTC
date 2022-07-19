@@ -61,6 +61,9 @@ It uses:
 4. text chat. 
 It also maintains the congestion control. 
 
+## Libraries of WebRTC
+1. peer.js 
+2. WebRTCPeerConnection is by default available in all browsers and java-script engines.
 
 ## Conclusion
 WebRTC is a technology which uses a lot of existing technology under the hood. It provides a lot of features out of the box like congestion control, switching the protocol/network dynamically etc. 
@@ -74,3 +77,5 @@ So, in case of multiple participants, event though the communication is not peer
 2. Hussain Naseer github:  https://github.com/hnasr/javascript_playground/tree/master/webrtc 
 3. udemy : https://www.udemy.com/course/practical-webrtc-a-complete-webrtc-bootcamp-for-beginners/learn/lecture/2367824
 4. webrtc official doc: https://webrtc.org 
+
+
